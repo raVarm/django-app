@@ -1,0 +1,44 @@
+.owl-carousel .item{
+ /* border: 1px solid black; */
+ font-size: 24px;
+ text-align: center;
+ margin-top: 20px;;
+}
+
+.owl-next{
+ float:right;
+}
+.owl-prev{
+ float:left;
+}
+.owl-prev span{
+ font-size: 24px;
+ font-weight: bold;
+}
+.owl-next span{
+ font-size: 24px;
+ font-weight: bold;
+}
+
+.navbar{
+    background-color: #763cca;
+}
+body{
+    background-color: whitesmoke;
+}
+
+.logo:hover{
+    font-size:larger;
+    position: relative;
+
+}
+.logo{
+    transition: 0.3s;
+    /* color: whitesmoke; */
+    color: black;
+    text-shadow: 0px 0px 5px white;
+}
+
+.pslider h2{
+    padding: 10px;
+}

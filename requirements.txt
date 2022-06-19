@@ -1,0 +1,12 @@
+Django==4.0.3
+GitPython==3.1.27
+gunicorn==20.1.0
+mysql-connector==2.2.9
+mysqlclient==2.1.0
+requests==2.22.0
+requests-unixsocket==0.2.0
+SecretStorage==2.3.1
+simplejson==3.16.0
+sqlparse==0.4.2
+systemd-python==234
+whitenoise==6.1.0
